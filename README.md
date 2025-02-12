@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Jaz.com" target="_blank"><img src="https://raw.githubusercontent.com/Jaz/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/Jaz
+<p align="center"><a href="https://github.com/Jaz356" target="_blank"><img src="https://raw.githubusercontent.com/Jaz/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/Jaz
 -logolockup-cmyk-red.svg" width="400" alt="Jaz
  Logo"></a></p>
 
@@ -44,16 +44,7 @@ Jaz
 
 
 Jaz
- has the most extensive and thorough [documentation](https://Jaz
-.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Jaz
- Bootcamp](https://bootcamp.Jaz
-.com), where you will be guided through building a modern Jaz
- application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Jaz
-, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+ Welcome to a 3h test for a coding course that i hope this passes but probably not as readme is mid and so is code, no api works and tests all fail, wish me luck.
 
 ## Jaz
  Sponsors
@@ -62,25 +53,6 @@ We would like to extend our thanks to the following sponsors for funding Jaz
  development. If you are interested in becoming a sponsor, please visit the [Jaz
  Partners program](https://partners.Jaz
 .com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/Jaz
-/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-Jaz
--developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/Jaz
-/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
 
 ## Contributing
 
@@ -94,13 +66,6 @@ Thank you for considering contributing to the Jaz
 In order to ensure that the Jaz
  community is welcoming to all, please review and abide by the [Code of Conduct](https://Jaz
 .com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Jaz
-, please send an e-mail to Taylor Otwell via [taylor@Jaz
-.com](mailto:taylor@Jaz
-.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
